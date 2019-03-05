@@ -3,10 +3,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Michelle Everingham</title>
+    <title>Michelle Everingham. This is my website</title>
   </head>
   <body>
     <h1>This is my website</h1>
+    <h1>This is my website, how do you do?</h1>
     <h2>You can see a further commit now</h2>
+    <h2>I will not commit this</h2>
   <body>
 </html>
